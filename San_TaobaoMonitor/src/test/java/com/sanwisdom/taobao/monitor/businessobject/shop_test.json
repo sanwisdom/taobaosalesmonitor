@@ -1,0 +1,3146 @@
+{
+  "createdBy" : "sanwisdom",
+  "updatedBy" : "sanwisdom",
+  "createdAt" : null,
+  "updatedAt" : null,
+  "id" : null,
+  "name" : null,
+  "url" : "ufrelas.tmall.com",
+  "products" : [ {
+    "id" : null,
+    "summary" : {
+      "title" : "淘金币 【试用中心官方推荐】优弗朗斯LED水晶灯台灯 卧室床头灯",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1CFIkXeFeXXXR3Jfa_090504.jpg_160x160.jpg",
+      "salesTotalAmount" : 78,
+      "monthlySalesAmount" : 78,
+      "salesTotal" : 138528,
+      "rating" : 4.96,
+      "link" : "http://detail.tmall.com/item.htm?id=16571053923&",
+      "productId" : 16571053923,
+      "price" : 1776.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354350338000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354350284000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354350228000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354350160000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354350114000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354350067000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354349576000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354349528000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354349033000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354348980000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354346867000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354324038000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354323991000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354323942000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354323712000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354323661000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354322281000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354322221000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354177866000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354176274000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354175545000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354175283000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354175173000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354175112000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354174967000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354174861000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354174688000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354110974000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354110517000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354107290000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354107240000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354105421000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354105366000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354105153000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354080415000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354022727000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354022058000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354021328000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354021098000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354021014000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354011382000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1354009781000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 20,
+      "unitPrice" : 1776,
+      "date" : 1354001292000,
+      "totalPrice" : 35520
+    }, {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 1776,
+      "date" : 1354000262000,
+      "totalPrice" : 17760
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1353990144000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1353993776000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1353981164000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1353941659000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1353936601000,
+      "totalPrice" : 1776
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1776,
+      "date" : 1353933985000,
+      "totalPrice" : 1776
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯时尚创意台灯 卧室灯意大利风格新款05001",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1PSkmXXBdXXXAZVs9_101951.jpg_160x160.jpg",
+      "salesTotalAmount" : 80,
+      "monthlySalesAmount" : 80,
+      "salesTotal" : 100776,
+      "rating" : 4.96,
+      "link" : "http://detail.tmall.com/item.htm?id=16571093265&",
+      "productId" : 16571093265,
+      "price" : 1560.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 780,
+      "date" : 1354620556000,
+      "totalPrice" : 780
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 780,
+      "date" : 1354539549000,
+      "totalPrice" : 780
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354350338000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354350284000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354350228000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354350160000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354350114000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354350067000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354349576000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354349528000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354349033000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354348980000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354346867000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354324038000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354323991000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354323942000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354323712000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354323661000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354322281000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354322221000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354177866000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354176274000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354175545000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354175283000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354175173000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354175112000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354174967000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354174861000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354174688000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354110974000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354110517000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354107290000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354107240000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354105421000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354105366000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354105153000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354080415000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354022727000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354022058000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354021328000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354021098000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354021014000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354011382000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1354009781000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 1272,
+      "date" : 1354000262000,
+      "totalPrice" : 12720
+    }, {
+      "id" : null,
+      "salesAmount" : 20,
+      "unitPrice" : 1272,
+      "date" : 1354001292000,
+      "totalPrice" : 25440
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1353993776000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1353990144000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1353981164000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1353941659000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1353936601000,
+      "totalPrice" : 1272
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1272,
+      "date" : 1353933985000,
+      "totalPrice" : 1272
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯吸顶灯 卧室灯现代简约客厅灯饰灯具03001",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T19p.jXmxfXXcvrS34_054205.jpg_160x160.jpg",
+      "salesTotalAmount" : 90,
+      "monthlySalesAmount" : 90,
+      "salesTotal" : 279125,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16567961052&",
+      "productId" : 16567961052,
+      "price" : 1196.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2210,
+      "date" : 1354628736000,
+      "totalPrice" : 2210
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1875,
+      "date" : 1354611303000,
+      "totalPrice" : 1875
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1499,
+      "date" : 1354609841000,
+      "totalPrice" : 1499
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1875,
+      "date" : 1354548651000,
+      "totalPrice" : 1875
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2210,
+      "date" : 1354546459000,
+      "totalPrice" : 2210
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1790,
+      "date" : 1354531934000,
+      "totalPrice" : 1790
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1749,
+      "date" : 1354526669000,
+      "totalPrice" : 1749
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1350,
+      "date" : 1354526669000,
+      "totalPrice" : 1350
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1499,
+      "date" : 1354526669000,
+      "totalPrice" : 1499
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1749,
+      "date" : 1354415235000,
+      "totalPrice" : 1749
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1499,
+      "date" : 1354415235000,
+      "totalPrice" : 1499
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354350338000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354350284000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354350228000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354346867000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354350160000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354350114000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354350067000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354349576000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354349528000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354349033000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354348980000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354324038000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2998,
+      "date" : 1354323991000,
+      "totalPrice" : 2998
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354323942000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354323712000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354323661000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354322281000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2998,
+      "date" : 1354322221000,
+      "totalPrice" : 2998
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1350,
+      "date" : 1354200800000,
+      "totalPrice" : 1350
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2998,
+      "date" : 1354177866000,
+      "totalPrice" : 2998
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354176274000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354175545000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2998,
+      "date" : 1354175283000,
+      "totalPrice" : 2998
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354175173000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354175112000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2998,
+      "date" : 1354174967000,
+      "totalPrice" : 2998
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354174861000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2998,
+      "date" : 1354174688000,
+      "totalPrice" : 2998
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354110974000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354110517000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354107290000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354107240000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354105421000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1354105366000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354105153000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354080415000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354022727000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354022058000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354021328000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354021098000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1354021014000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2998,
+      "date" : 1354011382000,
+      "totalPrice" : 2998
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2998,
+      "date" : 1354009781000,
+      "totalPrice" : 2998
+    }, {
+      "id" : null,
+      "salesAmount" : 20,
+      "unitPrice" : 3498,
+      "date" : 1354001292000,
+      "totalPrice" : 69960
+    }, {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 3498,
+      "date" : 1354000262000,
+      "totalPrice" : 34980
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1353993776000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1353990144000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1353981164000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1353941659000,
+      "totalPrice" : 3498
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2700,
+      "date" : 1353936601000,
+      "totalPrice" : 2700
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3498,
+      "date" : 1353933985000,
+      "totalPrice" : 3498
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "淘金币 预售优弗朗斯LED水晶灯餐厅吊灯 卧室灯现代简约",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1zFolXnNdXXcuEaLc_095742.jpg_160x160.jpg",
+      "salesTotalAmount" : 82,
+      "monthlySalesAmount" : 82,
+      "salesTotal" : 160666.03,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=18032271148&",
+      "productId" : 18032271148,
+      "price" : 1996.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 994.01,
+      "date" : 1354544907000,
+      "totalPrice" : 994.01
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 994.01,
+      "date" : 1354533919000,
+      "totalPrice" : 994.01
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 994.01,
+      "date" : 1354527110000,
+      "totalPrice" : 994.01
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354433366000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354350338000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354350284000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354350228000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354350160000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354350114000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354350067000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354349576000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354349528000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354349033000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354348980000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354346867000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354324038000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354323991000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354323942000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354323712000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354323661000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354322281000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354322221000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354177866000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354176274000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354175545000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354175283000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354175173000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354175112000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354174967000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354174861000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354174688000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354110974000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354110517000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354107290000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354107240000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354105421000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354105366000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354105153000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354080415000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354022727000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354022058000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354021328000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354021098000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354011382000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354009781000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1354021014000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 20,
+      "unitPrice" : 1996,
+      "date" : 1354001292000,
+      "totalPrice" : 39920
+    }, {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 1996,
+      "date" : 1354000262000,
+      "totalPrice" : 19960
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1353993776000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1353990144000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1353981164000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1353941659000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1353936601000,
+      "totalPrice" : 1996
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1996,
+      "date" : 1353933985000,
+      "totalPrice" : 1996
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "淘金币 预售优弗朗斯水晶灯餐厅吊灯 现代简约客厅灯卧室新款040",
+      "thumbnail" : "http://img02.taobaocdn.com/bao/uploaded/i2/T1Pm3jXc0fXXXOm2TX_085200.jpg_160x160.jpg",
+      "salesTotalAmount" : 80,
+      "monthlySalesAmount" : 80,
+      "salesTotal" : 109389.25,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=21225944699&",
+      "productId" : 21225944699,
+      "price" : 1376.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 685.25,
+      "date" : 1354703191000,
+      "totalPrice" : 685.25
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354546459000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354350338000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354350284000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354350228000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354350160000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354350114000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354350067000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354349576000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354349528000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354349033000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354348980000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354346867000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354324038000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354323991000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354323942000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354323712000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354323661000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354322281000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354322221000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354177866000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354176274000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354175545000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354175283000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354175173000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354175112000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354174967000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354174861000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354174688000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354110974000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354110517000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354107290000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354107240000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354105421000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354105366000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354105153000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354080415000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354022727000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354022058000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354021328000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354021098000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354021014000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354011382000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1354009781000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 1376,
+      "date" : 1354000262000,
+      "totalPrice" : 13760
+    }, {
+      "id" : null,
+      "salesAmount" : 20,
+      "unitPrice" : 1376,
+      "date" : 1354001292000,
+      "totalPrice" : 27520
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1353993776000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1353990144000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1353981164000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1353941659000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1353936601000,
+      "totalPrice" : 1376
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1376,
+      "date" : 1353933985000,
+      "totalPrice" : 1376
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED射灯筒灯3W全套2寸天花灯客厅卧室灯具01012新款热销",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1OzsbXXBhXXbjwzDb_094535.jpg_160x160.jpg",
+      "salesTotalAmount" : 180,
+      "monthlySalesAmount" : 102,
+      "salesTotal" : 10234.0,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=17624115310&",
+      "productId" : 17624115310,
+      "price" : 119.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354728786000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354709855000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354704978000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354638415000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354635241000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354631460000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354630359000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354622143000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354622087000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354622017000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354621679000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354621602000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1354608154000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1354323776000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 5,
+      "unitPrice" : 59.5,
+      "date" : 1352724808000,
+      "totalPrice" : 297.5
+    }, {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 119,
+      "date" : 1352649079000,
+      "totalPrice" : 1190
+    }, {
+      "id" : null,
+      "salesAmount" : 11,
+      "unitPrice" : 119,
+      "date" : 1352636561000,
+      "totalPrice" : 1309
+    }, {
+      "id" : null,
+      "salesAmount" : 12,
+      "unitPrice" : 119,
+      "date" : 1352620791000,
+      "totalPrice" : 1428
+    }, {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 119,
+      "date" : 1352576287000,
+      "totalPrice" : 1190
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1352385953000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 119,
+      "date" : 1352385953000,
+      "totalPrice" : 119
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352385599000,
+      "totalPrice" : 119.0
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352366341000,
+      "totalPrice" : 119.0
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352366341000,
+      "totalPrice" : 119.0
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 119,
+      "date" : 1352346633000,
+      "totalPrice" : 357
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 119,
+      "date" : 1352346633000,
+      "totalPrice" : 357
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 119,
+      "date" : 1352346217000,
+      "totalPrice" : 357
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 119,
+      "date" : 1352346217000,
+      "totalPrice" : 357
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1352295477000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1352294819000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1352261733000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352261733000,
+      "totalPrice" : 119.0
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1352209369000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1352207767000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1352207352000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1352207352000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352186641000,
+      "totalPrice" : 119.0
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352186641000,
+      "totalPrice" : 119.0
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352182347000,
+      "totalPrice" : 119.0
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352182347000,
+      "totalPrice" : 119.0
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 59.5,
+      "date" : 1352181549000,
+      "totalPrice" : 59.5
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 59.5,
+      "date" : 1352181549000,
+      "totalPrice" : 119.0
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED射灯5W全套1.5寸 背景墙灯美国cree光源01018精致超亮",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1nNccXj0bXXXYGz2b_094601.jpg_160x160.jpg",
+      "salesTotalAmount" : 116,
+      "monthlySalesAmount" : 91,
+      "salesTotal" : 10784.4,
+      "rating" : 4.97,
+      "link" : "http://detail.tmall.com/item.htm?id=20596016396&",
+      "productId" : 20596016396,
+      "price" : 156.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 93.6,
+      "date" : 1354175734000,
+      "totalPrice" : 93.6
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 93.6,
+      "date" : 1354175668000,
+      "totalPrice" : 93.6
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 93.6,
+      "date" : 1354175609000,
+      "totalPrice" : 93.6
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 93.6,
+      "date" : 1354107599000,
+      "totalPrice" : 93.6
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 93.6,
+      "date" : 1354107177000,
+      "totalPrice" : 280.8
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 93.6,
+      "date" : 1354106746000,
+      "totalPrice" : 93.6
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 93.6,
+      "date" : 1353420180000,
+      "totalPrice" : 187.2
+    }, {
+      "id" : null,
+      "salesAmount" : 4,
+      "unitPrice" : 93.6,
+      "date" : 1353153814000,
+      "totalPrice" : 374.4
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 93.6,
+      "date" : 1352806948000,
+      "totalPrice" : 93.6
+    }, {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 93.6,
+      "date" : 1352730549000,
+      "totalPrice" : 936.0
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 93.6,
+      "date" : 1352730204000,
+      "totalPrice" : 93.6
+    }, {
+      "id" : null,
+      "salesAmount" : 6,
+      "unitPrice" : 156,
+      "date" : 1352649892000,
+      "totalPrice" : 936
+    }, {
+      "id" : null,
+      "salesAmount" : 6,
+      "unitPrice" : 156,
+      "date" : 1352649519000,
+      "totalPrice" : 936
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 156,
+      "date" : 1352647936000,
+      "totalPrice" : 312
+    }, {
+      "id" : null,
+      "salesAmount" : 6,
+      "unitPrice" : 156,
+      "date" : 1352647936000,
+      "totalPrice" : 936
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 298,
+      "date" : 1352588166000,
+      "totalPrice" : 894
+    }, {
+      "id" : null,
+      "salesAmount" : 17,
+      "unitPrice" : 78,
+      "date" : 1352558711000,
+      "totalPrice" : 1326
+    }, {
+      "id" : null,
+      "salesAmount" : 4,
+      "unitPrice" : 109.2,
+      "date" : 1352455336000,
+      "totalPrice" : 436.8
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352430861000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 156,
+      "date" : 1352385953000,
+      "totalPrice" : 156
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 156,
+      "date" : 1352385953000,
+      "totalPrice" : 156
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352366341000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352366341000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 156,
+      "date" : 1352346850000,
+      "totalPrice" : 156
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 156,
+      "date" : 1352346850000,
+      "totalPrice" : 156
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 156,
+      "date" : 1352346217000,
+      "totalPrice" : 156
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 156,
+      "date" : 1352346217000,
+      "totalPrice" : 156
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352294819000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352261733000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352261733000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352209369000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352207767000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352206134000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352186641000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352186641000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352182347000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352182347000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352181549000,
+      "totalPrice" : 109.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 109.2,
+      "date" : 1352181549000,
+      "totalPrice" : 109.2
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "补运费邮资差价链接",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1vo60XgNnXXamjLc8_070343.jpg_160x160.jpg",
+      "salesTotalAmount" : 6084,
+      "monthlySalesAmount" : 6084,
+      "salesTotal" : 6084,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16538661451&",
+      "productId" : 16538661451,
+      "price" : 1.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 3315,
+      "unitPrice" : 1,
+      "date" : 1354783068000,
+      "totalPrice" : 3315
+    }, {
+      "id" : null,
+      "salesAmount" : 522,
+      "unitPrice" : 1,
+      "date" : 1354622693000,
+      "totalPrice" : 522
+    }, {
+      "id" : null,
+      "salesAmount" : 647,
+      "unitPrice" : 1,
+      "date" : 1354548651000,
+      "totalPrice" : 647
+    }, {
+      "id" : null,
+      "salesAmount" : 350,
+      "unitPrice" : 1,
+      "date" : 1354537369000,
+      "totalPrice" : 350
+    }, {
+      "id" : null,
+      "salesAmount" : 1000,
+      "unitPrice" : 1,
+      "date" : 1354536749000,
+      "totalPrice" : 1000
+    }, {
+      "id" : null,
+      "salesAmount" : 250,
+      "unitPrice" : 1,
+      "date" : 1353899187000,
+      "totalPrice" : 250
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED筒灯射灯3W全套2寸 客厅灯天花灯过道灯02005热销爆款",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1fGf4Xn0kXXcxODIT_012917.jpg_160x160.jpg",
+      "salesTotalAmount" : 29,
+      "monthlySalesAmount" : 24,
+      "salesTotal" : 2567.2,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16258546581&",
+      "productId" : 16258546581,
+      "price" : 132.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 66,
+      "date" : 1354324844000,
+      "totalPrice" : 66
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 112,
+      "date" : 1354324844000,
+      "totalPrice" : 112
+    }, {
+      "id" : null,
+      "salesAmount" : 8,
+      "unitPrice" : 92.4,
+      "date" : 1352993334000,
+      "totalPrice" : 739.2
+    }, {
+      "id" : null,
+      "salesAmount" : 6,
+      "unitPrice" : 132,
+      "date" : 1352649519000,
+      "totalPrice" : 792
+    }, {
+      "id" : null,
+      "salesAmount" : 4,
+      "unitPrice" : 132,
+      "date" : 1352639103000,
+      "totalPrice" : 528
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 132,
+      "date" : 1352562785000,
+      "totalPrice" : 132
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 66,
+      "date" : 1352558626000,
+      "totalPrice" : 198
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯高档LED射灯筒灯3W全套 客厅灯天花灯 美国旭明光源01009",
+      "thumbnail" : "http://img02.taobaocdn.com/bao/uploaded/i2/T14bArXnRbXXaVTWoU_013547.jpg_160x160.jpg",
+      "salesTotalAmount" : 31,
+      "monthlySalesAmount" : 31,
+      "salesTotal" : 2464.0,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=20595180623&",
+      "productId" : 20595180623,
+      "price" : 88.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 21,
+      "unitPrice" : 88,
+      "date" : 1354787412000,
+      "totalPrice" : 1848
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 61.6,
+      "date" : 1354175792000,
+      "totalPrice" : 61.6
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 61.6,
+      "date" : 1354175734000,
+      "totalPrice" : 184.8
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 61.6,
+      "date" : 1354175668000,
+      "totalPrice" : 184.8
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 61.6,
+      "date" : 1354175609000,
+      "totalPrice" : 184.8
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯进口2寸LED筒灯射3W 牛眼客厅天花灯 美国cree光源01008",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1kwQaXmNiXXbHAY3T_011125.jpg_160x160.jpg",
+      "salesTotalAmount" : 10,
+      "monthlySalesAmount" : 10,
+      "salesTotal" : 616.0,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=20594960766&",
+      "productId" : 20594960766,
+      "price" : 118.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 61.6,
+      "date" : 1354175792000,
+      "totalPrice" : 61.6
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 61.6,
+      "date" : 1354175734000,
+      "totalPrice" : 184.8
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 61.6,
+      "date" : 1354175668000,
+      "totalPrice" : 184.8
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 61.6,
+      "date" : 1354175609000,
+      "totalPrice" : 184.8
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯吊灯 餐厅灯卧室灯现代简约灯饰灯具04001",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1r0gmXg4dXXbKPyU8_100824.jpg_160x160.jpg",
+      "salesTotalAmount" : 4,
+      "monthlySalesAmount" : 4,
+      "salesTotal" : 5150,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16568333569&",
+      "productId" : 16568333569,
+      "price" : 1050.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 960,
+      "date" : 1354622936000,
+      "totalPrice" : 960
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 960,
+      "date" : 1354621529000,
+      "totalPrice" : 960
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2340,
+      "date" : 1354609841000,
+      "totalPrice" : 2340
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 890,
+      "date" : 1354011752000,
+      "totalPrice" : 890
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED筒灯射灯5W全套 客厅灯卧室天花灯 美国旭明光源02012",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1n4gaXjJhXXaXm..T_013404.jpg_160x160.jpg",
+      "salesTotalAmount" : 19,
+      "monthlySalesAmount" : 18,
+      "salesTotal" : 2008.8,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=17623987205&",
+      "productId" : 17623987205,
+      "price" : 198.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 4,
+      "unitPrice" : 118.8,
+      "date" : 1354367613000,
+      "totalPrice" : 475.2
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 226.8,
+      "date" : 1354324844000,
+      "totalPrice" : 226.8
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 118.8,
+      "date" : 1353338514000,
+      "totalPrice" : 118.8
+    }, {
+      "id" : null,
+      "salesAmount" : 12,
+      "unitPrice" : 99,
+      "date" : 1352558626000,
+      "totalPrice" : 1188
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯 LED射灯筒灯3W全套2寸 天花灯360度 美国旭明光源01006",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1We2YXo0lXXcnvYQT_011107.jpg_160x160.jpg",
+      "salesTotalAmount" : 20,
+      "monthlySalesAmount" : 13,
+      "salesTotal" : 1710.0,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16259054731&",
+      "productId" : 16259054731,
+      "price" : 90.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 119.7,
+      "date" : 1354608154000,
+      "totalPrice" : 1197.0
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 171,
+      "date" : 1353331311000,
+      "totalPrice" : 513
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED射灯3W筒灯全套 客厅灯天花灯cree光源01001 超亮爆款",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1QRcbXo4dXXalUo3S_010441.jpg_160x160.jpg",
+      "salesTotalAmount" : 114,
+      "monthlySalesAmount" : 41,
+      "salesTotal" : 5805.8,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=17623611280&",
+      "productId" : 17623611280,
+      "price" : 236.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 5,
+      "unitPrice" : 273,
+      "date" : 1354608154000,
+      "totalPrice" : 1365
+    }, {
+      "id" : null,
+      "salesAmount" : 35,
+      "unitPrice" : 122,
+      "date" : 1352563330000,
+      "totalPrice" : 4270
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 170.8,
+      "date" : 1352206134000,
+      "totalPrice" : 170.8
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED射灯5W全套筒灯 客厅卧室天花灯 现代简约欧式灯01017",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1iAIbXXteXXcS513T_011515.jpg_160x160.jpg",
+      "salesTotalAmount" : 65,
+      "monthlySalesAmount" : 20,
+      "salesTotal" : 3656.0,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16262173250&",
+      "productId" : 16262173250,
+      "price" : 152.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 189.6,
+      "date" : 1354608154000,
+      "totalPrice" : 1896.0
+    }, {
+      "id" : null,
+      "salesAmount" : 9,
+      "unitPrice" : 176,
+      "date" : 1352649079000,
+      "totalPrice" : 1584
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 176,
+      "date" : 1352520759000,
+      "totalPrice" : 176
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯吸顶灯 客厅灯卧室灯餐厅灯灯饰灯具03002",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1C7ZgXixfXXc0gC37_065713.jpg_160x160.jpg",
+      "salesTotalAmount" : 3,
+      "monthlySalesAmount" : 3,
+      "salesTotal" : 5698,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16561974646&",
+      "productId" : 16561974646,
+      "price" : 2470.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1746,
+      "date" : 1354415235000,
+      "totalPrice" : 1746
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1482,
+      "date" : 1354415235000,
+      "totalPrice" : 1482
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2470,
+      "date" : 1354013402000,
+      "totalPrice" : 2470
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED筒灯射灯5W全套 360°天花灯客厅灯现代简约灯具01015",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1kV3cXgRbXXc.WtsT_011315.jpg_160x160.jpg",
+      "salesTotalAmount" : 11,
+      "monthlySalesAmount" : 11,
+      "salesTotal" : 1740.0,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=20595072628&",
+      "productId" : 20595072628,
+      "price" : 210.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 10,
+      "unitPrice" : 157.5,
+      "date" : 1354608154000,
+      "totalPrice" : 1575.0
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 165,
+      "date" : 1352651264000,
+      "totalPrice" : 165
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED射灯3W全套筒灯2寸 客厅灯卧室灯天花灯02002特价新款",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1ZNEaXmhhXXX7TDgT_012851.jpg_160x160.jpg",
+      "salesTotalAmount" : 25,
+      "monthlySalesAmount" : 24,
+      "salesTotal" : 1224,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=17623095015&",
+      "productId" : 17623095015,
+      "price" : 87.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 20,
+      "unitPrice" : 38,
+      "date" : 1354548651000,
+      "totalPrice" : 760
+    }, {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 116,
+      "date" : 1352806118000,
+      "totalPrice" : 116
+    }, {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 116,
+      "date" : 1352649079000,
+      "totalPrice" : 348
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯镜前灯床头灯 浴室简约现代卫生间灯08001",
+      "thumbnail" : "http://img02.taobaocdn.com/bao/uploaded/i2/T1b8MnXnpaXXaWFIs9_102635.jpg_160x160.jpg",
+      "salesTotalAmount" : 3,
+      "monthlySalesAmount" : 3,
+      "salesTotal" : 966,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16562590268&",
+      "productId" : 16562590268,
+      "price" : 480.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 390,
+      "date" : 1354539573000,
+      "totalPrice" : 390
+    }, {
+      "id" : null,
+      "salesAmount" : 2,
+      "unitPrice" : 288,
+      "date" : 1354538896000,
+      "totalPrice" : 576
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED筒灯射灯5W全套 客厅天花灯具灯饰 美国Utel光源02006",
+      "thumbnail" : "http://img02.taobaocdn.com/bao/uploaded/i2/T1a4wcXjxaXXc6onZT_012937.jpg_160x160.jpg",
+      "salesTotalAmount" : 5,
+      "monthlySalesAmount" : 3,
+      "salesTotal" : 480.9,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=20629636909&",
+      "productId" : 20629636909,
+      "price" : 310.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 3,
+      "unitPrice" : 160.3,
+      "date" : 1354626018000,
+      "totalPrice" : 480.9
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯餐厅吊灯 卧室灯现代简约意大利新款 04008",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1QMImXlddXXcrhTc8_101655.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 1,
+      "salesTotal" : 2896,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16562786838&",
+      "productId" : 16562786838,
+      "price" : 2896.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 2896,
+      "date" : 1354551145000,
+      "totalPrice" : 2896
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯进口LED射灯筒灯3W全套 客厅灯天花灯 美国cree光源01004",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1Nq.iXj8eXXXFA7LX_085814.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 1,
+      "salesTotal" : 118.8,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16261985005&",
+      "productId" : 16261985005,
+      "price" : 198.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 118.8,
+      "date" : 1354162132000,
+      "totalPrice" : 118.8
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED筒灯射灯10W全套 美国科瑞大功率客厅灯01020超亮新款",
+      "thumbnail" : "http://img02.taobaocdn.com/bao/uploaded/i2/T135McXh8XXXa7s9gT_012727.jpg_160x160.jpg",
+      "salesTotalAmount" : 4,
+      "monthlySalesAmount" : 4,
+      "salesTotal" : 1327.2,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16259338203&",
+      "productId" : 16259338203,
+      "price" : 290.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 4,
+      "unitPrice" : 331.8,
+      "date" : 1354588215000,
+      "totalPrice" : 1327.2
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯进口LED射灯筒灯30W 大功率商用照明 酒店工程灯具01010",
+      "thumbnail" : "http://img02.taobaocdn.com/bao/uploaded/i2/T1AVwXXjdXXXXFDUs._083636.jpg_160x160.jpg",
+      "salesTotalAmount" : 5,
+      "monthlySalesAmount" : 5,
+      "salesTotal" : 3125,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16456998207&",
+      "productId" : 16456998207,
+      "price" : 625.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 625,
+      "date" : 1353834275000,
+      "totalPrice" : 625
+    }, {
+      "id" : null,
+      "salesAmount" : 4,
+      "unitPrice" : 625,
+      "date" : 1353560382000,
+      "totalPrice" : 2500
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯led水晶灯餐厅吊灯 卧室灯 客厅灯三头时尚新款04009",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T18XZoXb8aXXXHBTZ8_101754.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 1,
+      "salesTotal" : 670,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16568773255&",
+      "productId" : 16568773255,
+      "price" : 800.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 670,
+      "date" : 1354011752000,
+      "totalPrice" : 670
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯餐厅吊灯 客厅卧室时尚新款灯饰灯具04007",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T147onXatbXXb4elQ8_101503.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 1,
+      "salesTotal" : 3770,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=21225792443&",
+      "productId" : 21225792443,
+      "price" : 4470.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 3770,
+      "date" : 1354013402000,
+      "totalPrice" : 3770
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯卧室床头灯创意壁灯 现代简约镜前灯 07001",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1bz.iXfFXXXXVaI.9_073024.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 1,
+      "salesTotal" : 596,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=21225748255&",
+      "productId" : 21225748255,
+      "price" : 596.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 596,
+      "date" : 1354011752000,
+      "totalPrice" : 596
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯吸顶灯 卧室灯现代简约客厅灯新款03005",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1Iy.nXcBbXXb5t478_100721.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 1,
+      "salesTotal" : 4816,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=21224680827&",
+      "productId" : 21224680827,
+      "price" : 6240.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 4816,
+      "date" : 1354013402000,
+      "totalPrice" : 4816
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯led水晶灯餐厅吊灯 现代简约客厅卧室灯饰灯具04010",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1Wh7mXiNdXXX6SoA8_101842.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 1,
+      "salesTotal" : 1576,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=18032491355&",
+      "productId" : 18032491355,
+      "price" : 1600.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 1576,
+      "date" : 1354011752000,
+      "totalPrice" : 1576
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯新款LED筒灯9W全套3寸射灯 客厅天花灯美国cree光源02014",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1tn__XgpgXXaU2k_X_085851.jpg_160x160.jpg",
+      "salesTotalAmount" : 26,
+      "monthlySalesAmount" : 25,
+      "salesTotal" : 3200,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=17623915894&",
+      "productId" : 17623915894,
+      "price" : 256.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 25,
+      "unitPrice" : 128,
+      "date" : 1352563330000,
+      "totalPrice" : 3200
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯进口LED筒灯射灯5W全套 客厅灯天花灯 美国科瑞光源02007",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1DawcXn0cXXXbWSMT_013105.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 1,
+      "salesTotal" : 196,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=17623455845&",
+      "productId" : 17623455845,
+      "price" : 110.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 1,
+      "unitPrice" : 196,
+      "date" : 1353145916000,
+      "totalPrice" : 196
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED筒灯5W全套射灯 客厅灯天花灯 美国cree光源02011正品",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1lt7bXdJhXXauW.ET_013333.jpg_160x160.jpg",
+      "salesTotalAmount" : 4,
+      "monthlySalesAmount" : 4,
+      "salesTotal" : 1080,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16261973159&",
+      "productId" : 16261973159,
+      "price" : 232.00
+    },
+    "deals" : [ {
+      "id" : null,
+      "salesAmount" : 4,
+      "unitPrice" : 270,
+      "date" : 1352585977000,
+      "totalPrice" : 1080
+    } ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯台灯UF05010",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1ncUpXjtXXXba_D6a_092457.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16646910990&",
+      "productId" : 16646910990,
+      "price" : 600.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯进口LED射灯筒灯12W 大功率商用照明 酒店工程灯具02003",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1mCr.XohXXXawrcjX_084429.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=21007124299&",
+      "productId" : 21007124299,
+      "price" : 324.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯进口LED射灯筒灯18W 大功率商用照明 酒店工程灯具01011",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1Jgz_XjxfXXayAEZ._084012.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=21006912883&",
+      "productId" : 21006912883,
+      "price" : 531.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED射灯筒灯3W全套2寸 客厅灯天花灯 美国cree光源01002",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1QMccXn8XXXacspQT_010541.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=20595080825&",
+      "productId" : 20595080825,
+      "price" : 92.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED射灯筒灯5W全套2.5寸 客厅天花灯 美国科瑞光源02001",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1VRUaXl4fXXXbWSMT_012805.jpg_160x160.jpg",
+      "salesTotalAmount" : 2,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=20593504220&",
+      "productId" : 20593504220,
+      "price" : 316.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯台灯UF05011",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1GN.pXaVXXXcnorTb_092944.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=18145647144&",
+      "productId" : 18145647144,
+      "price" : 1500.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "预售优弗朗斯LED水晶灯卧室床头灯壁灯镜前灯 现代简约新款 07002",
+      "thumbnail" : "http://img01.taobaocdn.com/bao/uploaded/i1/T1rW.mXfFeXXbMVYQ9_102549.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=18032335788&",
+      "productId" : 18032335788,
+      "price" : 680.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯进口LED射灯筒灯9W 大功率商用照明 酒店工程灯具02004",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1oQr.Xh8bXXXYTFIZ_030919.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=17890967556&",
+      "productId" : 17890967556,
+      "price" : 216.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯3寸LED筒灯射灯5W全套 卧室灯天花灯 美国cree光源01013",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1wK3bXlVeXXbnWsQT_011228.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=17624107880&",
+      "productId" : 17624107880,
+      "price" : 162.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯落地灯UF06003",
+      "thumbnail" : "http://img03.taobaocdn.com/bao/uploaded/i3/T1Ge.nXfxeXXXOYczb_093340.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16652805897&",
+      "productId" : 16652805897,
+      "price" : 934.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯台灯UF05009",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1HVZpXclaXXXsakva_092015.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16646798856&",
+      "productId" : 16646798856,
+      "price" : 934.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯进口LED射灯筒灯18W 大功率商用照明 酒店工程灯具01007",
+      "thumbnail" : "http://img02.taobaocdn.com/bao/uploaded/i2/T1t6T.Xc4aXXbbXjA._083018.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16456862437&",
+      "productId" : 16456862437,
+      "price" : 302.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "优弗朗斯LED筒灯射灯5W全套2.5寸天花灯背景墙美国cree 01016超亮",
+      "thumbnail" : "http://img02.taobaocdn.com/bao/uploaded/i2/T1fN3bXcFeXXbDEKET_011451.jpg_160x160.jpg",
+      "salesTotalAmount" : 0,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 0.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16262105152&",
+      "productId" : 16262105152,
+      "price" : 139.00
+    },
+    "deals" : [ ]
+  }, {
+    "id" : null,
+    "summary" : {
+      "title" : "【试用中心官方推荐】优弗朗斯LED射灯3W筒灯全套2寸 天花灯01003",
+      "thumbnail" : "http://img04.taobaocdn.com/bao/uploaded/i4/T1R3AbXfxdXXX5_acT_010606.jpg_160x160.jpg",
+      "salesTotalAmount" : 1,
+      "monthlySalesAmount" : 0,
+      "salesTotal" : 0,
+      "rating" : 5.0,
+      "link" : "http://detail.tmall.com/item.htm?id=16261905013&",
+      "productId" : 16261905013,
+      "price" : 179.00
+    },
+    "deals" : [ ]
+  } ]
+}

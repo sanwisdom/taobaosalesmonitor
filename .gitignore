@@ -28,3 +28,26 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+[Tt]mp/
+[Tt]emp/
+
+
+#Java
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#Maven
+target
+build
+ 
+#Eclipse
+*.classpath
+*.project
+.settings/
+
+
+#Log
+*.log.*

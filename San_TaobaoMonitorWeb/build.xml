@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- modified by sillycat.luohua 2008.06.27 --> 
+<project name="San_TaobaoMonitorWeb" default="compile" basedir="."> 
+<!-- set global properties for this build --> 
+<!-- 项目名字 --> 
+<property name="project" value="San_TaobaoMonitorWeb" /> 
+<!-- 源代码路径 --> 
+<property name="src" location="src/main/java" /> 
+<!-- 所有的配置文件 --> 
+<property name="config" location="src/main/resource" /> 
+<!-- web项目的根   --> 
+<property name="web" location="src/main/webapp" /> 
+<!-- web中用到的jar包 --> 
+<property name="web-lib" location="${web}/WEB-INF/lib" /> 
+<!-- build出class的路径 --> 
+<property name="build" location="build" /> 
+<!-- 生成war包和项目部署配置文件的路径 --> 
+<property name="dist" location="dist" /> 
+<!-- maven管理的jar包 --> 
+<property name="maven-jar" location="target/lib" /> 
+
+<!-- 编译项目的classpath设置 --> 
+<path id="classpath.compile"> 
+   <fileset dir="${web-lib}"> 
+    <include name="**/*.jar" /> 
+   </fileset> 
+   <pathelement path="${build}" /> 
+</path> 
+
+<target name="init"> 
+   <!-- 编译前先生成目录 --> 
+   <mkdir dir="${build}" /> 
+   <mkdir dir="${dist}" /> 
+   <copy todir="${web-lib}"> 
+    <fileset dir="${maven-jar}" includes="*.jar"> 
+    </fileset> 
+   </copy> 
+</target> 
+
+<target name="compile" depends="init" description="compile the source"> 
+   <mkdir dir="${build}/classes" /> 
+   <!-- Compile the java code from ${src} into ${build} --> 
+   <javac srcdir="${src}" destdir="${build}/classes" debug="true" deprecation="true" optimize="false" failonerror="true" encoding="utf-8" includeantruntime="on"> 
+    <classpath refid="classpath.compile" /> 
+   </javac> 
+</target> 
+
+<!-- 拷贝页面资源到build中 --> 
+<target name="copyWebFiles" depends="compile"> 
+   <mkdir dir="${build}/web" /> 
+   <copy todir="${build}/web"> 
+    <fileset dir="${web}" excludes="WEB-INF/classes/"> 
+    </fileset> 
+   </copy> 
+   <copy todir="${build}/web/WEB-INF/classes"> 
+    <fileset dir="${build}/classes"> 
+    </fileset> 
+    <fileset dir="${config}"> 
+     <exclude name="**/easyview.properties" /> 
+    </fileset> 
+   </copy> 
+</target> 
+
+<!-- 拷贝配置资源给本机测试用   -->
+<target name="config4debug"> 
+   <copy file="${config}/easyview.properties" tofile="${dist}/easyview.properties" /> 
+</target> 
+
+<!-- 拷贝配置资源给发布用 
+<target name="config4release"> 
+   <copy file="${config}/easyview.properties" tofile="${dist}/easyview.properties" /> 
+</target> 
+--> 
+	
+<!-- 生成war包 --> 
+<target name="buildWar"> 
+   <mkdir dir="${dist}" /> 
+   <war destfile="${dist}/${project}.war" webxml="${build}/web/WEB-INF/web.xml"> 
+    <fileset dir="${build}/web" /> 
+   </war> 
+</target> 
+
+<!-- 打包给本机测试 --> 
+<target name="war" depends="clean,copyWebFiles, buildWar" description="generate the war package for personal debug"> 
+</target> 
+
+<!-- 打包给发布使用 --> 
+<target name="release" depends="clean,copyWebFiles,buildWar" description="generate the war package for release"> 
+</target> 
+<!-- 编译打包前先清空 --> 
+<target name="clean" description="clean up"> 
+   <!-- Delete the ${build} and ${dist} directory trees --> 
+   <delete dir="${build}" /> 
+   <delete dir="${dist}" /> 
+</target> 
+</project> 
